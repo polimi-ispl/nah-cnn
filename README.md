@@ -10,3 +10,7 @@ The proposed architecture is able to predict the normal velocity on the structur
 Results have highlighted great performances over a broad frequency range with respect to Normalized Mean Square Error and Normalized Cross Correlation. 
 Moreover, we investigated the robustness of the estimate against input data affected by additive white noise and error on microphone positioning.
 Therefore, this solution enables to infer useful properties from data by encoding them in an optimal feature representation learned by the network.
+
+## Proposed architecture
+
+## About the code
