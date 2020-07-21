@@ -31,3 +31,17 @@ The detailed structure of the proposed CNN is depicted below. The input and the 
 ![alt text](https://github.com/polimi-ispl/nah-cnn/blob/master/images/UNet_architecture.png)
 
 ## About the code
+The repo code is structured in the following folders:
+* _"src"_ contains the following scipts:
+  * _"uNetArchitecture.ipynb"_ contains the proposed architecture.
+  * _"example.ipynb"_ contains a complete explanation for using the architecture. In particular you can find the test phase in different boundary conditions scenarios.
+* _"data"_ contains the weights to test the trained model and the acoustic pressure measurements and velocity ground truth per each boundary conditions to use in the _example.ipynb_ file.
+
+All the code file are given as Notebook files in order to provide complete explanations of the code.
+Scipts are exportable in Python languages and the installation of the following modules is required:
+* numpy
+* tensorflow
+* keras
+* sklearn
+* pickle (for reading and writing files such as datasets and saved models)
+* matplotlib.pyplot (for data visualization with plots)
