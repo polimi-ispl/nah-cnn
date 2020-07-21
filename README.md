@@ -35,10 +35,10 @@ The repo code is structured in the following folders:
 * _"src"_ contains the following scipts:
   * _"uNetArchitecture.ipynb"_ contains the proposed architecture.
   * _"example.ipynb"_ contains a complete explanation for using the architecture. In particular you can find the test phase in different boundary conditions scenarios.
-* _"data"_ contains the weights to test the trained model and the acoustic pressure measurements and velocity ground truth per each boundary conditions to use in the _example.ipynb_ file.
+* _"data"_ contains the weights to test the trained model, the acoustic pressure measurements and velocity ground truth for each boundary conditions to use in the _example.ipynb_ file.
 
-All the code file are given as Notebook files in order to provide complete explanations of the code.
-Scipts are exportable in Python languages and the installation of the following modules is required:
+All the code file is given in Notebook files in order to provide complete explanations.
+Scripts are exportable in Python language and the installation of the following modules is required:
 * numpy
 * tensorflow
 * keras
