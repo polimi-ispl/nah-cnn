@@ -1,7 +1,9 @@
 # Near-field Acoustic Holography analysis with Convolutional Neural Networks
-Repository of "Near-field Acoustic Holography analysis with Convolutional Neural Networks"
+Repository of ["Near-field Acoustic Holography analysis with Convolutional Neural Networks"](https://www.researchgate.net/publication/346790821_Near-field_Acoustic_Holography_analysis_with_Convolutional_Neural_Networks)
 
-M. Olivieri, M. Pezzoli, R. Malvermi, F. Antonacci, A. Sarti
+M. Olivieri, M. Pezzoli, R. Malvermi, F. Antonacci, A. Sarti.
+
+Inter-Noise 2020, Seoul.
 
 Near-field Acoustic Holography (NAH) enables the contactless analysis of the vibrational field on plates and shells from the acoustic data captured in proximity of the vibrating object.<br>
 We propose a data-driven approach to NAH by using a Convolutional Neural Network (CNN) that predicts the vibrational field on the object from the acoustic pressure field captured by a microphone array deployed in its proximity.<br>
